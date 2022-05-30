@@ -1,0 +1,2 @@
+Скилы, которые будут изучены на курсе:
+Git, JS, Postman, Android studio, Jmeter, Charles, Bug-tracking system
